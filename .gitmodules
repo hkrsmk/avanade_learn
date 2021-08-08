@@ -1,6 +1,6 @@
-[submodule "blazorazure/mslearn-staticwebapp-dotnet"]
-	path = blazorazure/mslearn-staticwebapp-dotnet
-	url = https://github.com/MicrosoftDocs/mslearn-staticwebapp-dotnet.git
+[submodule "mslearn-staticwebapp-dotnet"]
+	path = mslearn-staticwebapp-dotnet
+	url = https://github.com/hkrsmk/mslearn-swagger.git
 [submodule "mslearn-improve-api-developer-experience-with-swagger"]
 	path = mslearn-improve-api-developer-experience-with-swagger
 	url = https://github.com/MicrosoftDocs/mslearn-improve-api-developer-experience-with-swagger
